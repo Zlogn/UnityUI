@@ -4,3 +4,5 @@
 /UnityEditor.UI/obj
 /UnityEngine.UI-Editor/bin
 /UnityEngine.UI-Editor/obj
+/.vs
+/Output
